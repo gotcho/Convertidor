@@ -1,0 +1,1 @@
+<div id="header"> <p><a class="header-main" href="${resource(dir:'')}">Grails Currency Converter</a></p> <p class="header-sub">Nice and smooth</p> </div>
