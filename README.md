@@ -7,4 +7,6 @@ Use la base de datos nativa que tiene Grails en el libro mencionan que tiene una
 
 Si se quiere que los datos se guarden en la base de datos solo se corre en modo "produccion": "grails prod run-app"
 
+La version de Grails que utilize fue 3.0.7 y java 8
+
 Saludos y Gracias.
